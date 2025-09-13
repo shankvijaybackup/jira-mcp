@@ -1,0 +1,10 @@
+# JIRA
+JIRA_EMAIL=vj+atompoc@atomicwork.com
+JIRA_BASE_URL=https://atom-poc.atlassian.net
+JIRA_API_TOKEN=ATATT3xFfGF0Oy5AFCbCpzv_CqYC3nP6WgiKTa_b99CjA9qXTjsg_gc4VYAjv1gKkPHQzHCkowaHETAhlzzYbivv2M7k_pzYKJD7N0ySkWwVp87ua29Y1UVRtkVNPEfxpo8VUvBcFkFGcf33vpvax6fHaTEQPdPYsaZdUWWgt0PGj2n0oRxQPm0=7811884D
+DEFAULT_PROJECT_KEY=CRM
+
+
+# Server
+PORT=8080
+
